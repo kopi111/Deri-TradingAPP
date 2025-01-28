@@ -1,16 +1,32 @@
-# deriveapp
+App Description: 30-Day Trading Challenge Tracker
+App Name: Derive Trading Challenge
+Category: Finance / Productivity
+Platform: Android & iOS
+Technology Stack: Flutter (Dart)
 
-A new Flutter project.
+📌 Overview
+The Derive Trading Challenge app is designed to help traders track their progress in a structured 30-day trading plan. The app provides a clear roadmap for increasing capital while managing risk and profit goals each day. Users can mark their daily trading performance, ensuring they follow a disciplined and systematic approach to trading.
 
-## Getting Started
+🎯 Key Features
+✔ 📊 Structured 30-Day Trading Plan – Users start with a specific balance and aim to achieve pre-defined profit goals over 30 days.
+✔ ✅ Progress Tracking with Checkboxes – Users can mark each trading day as "passed" only if the previous day is completed, enforcing discipline.
+✔ 💰 Risk & Profit Management – Displays risk amount and profit goal for each day to ensure traders maintain proper money management.
+✔ 📈 Interactive User Interface – Clean and simple card-based layout for easy navigation.
+✔ 📅 Daily Trade Tracking – Encourages traders to stick to the plan, avoiding emotional and impulsive trading decisions.
+✔ 🔄 Automatic Data Retention – User progress is saved to prevent accidental loss of tracking.
 
-This project is a starting point for a Flutter application.
+👥 Target Audience
+📌 Beginner & experienced traders who want to improve discipline and consistency.
+📌 Users participating in funded trading challenges (e.g., FTMO, My Forex Funds).
+📌 Individuals looking for structured capital growth strategies in trading.
 
-A few resources to get you started if this is your first Flutter project:
+🚀 How It Works
+1️⃣ Start with a fixed balance and see the risk and profit goal for the day.
+2️⃣ Trade accordingly and mark the day as "passed" when the target is reached.
+3️⃣ Proceed to the next level only if the previous level is completed.
+4️⃣ Complete all 30 days to achieve the final target.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Future Enhancements
+📊 Data Analytics Dashboard to review past performance.
+🔔 Daily Reminders to keep traders on track.
+📈 Graphical Progress Visualization for motivation.
